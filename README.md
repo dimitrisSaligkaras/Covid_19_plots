@@ -1,2 +1,2 @@
 # Covid_19_plots
-Οπτικοποιήσεις δεδομένων κορονοϊού  
+A tutorial on ggplot2 using covid 19 data 
